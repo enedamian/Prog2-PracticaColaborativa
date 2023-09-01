@@ -8,5 +8,6 @@ print("Aca estuvo Lucas Bertone")
 print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
 print()
 print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
-print("Aca estuvo bautista menghini.")
-print("Acá estuvo Aldana Aranda")
+
+print("Acá estuvo MilagrosMn")
+
