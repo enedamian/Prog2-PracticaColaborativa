@@ -6,9 +6,6 @@ print("------------------------------------------------------------------")
 print("Vamos a agregar nuestros nombres a continuación:")
 print("Matias Nicolas Cappa y lo controlo Lucas Bertone")
 #print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
-
-print("Generando conflictos!!! MUEJEJE")
-
 print("Aca estuvo Lucas Bertone")
 print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
 print()
