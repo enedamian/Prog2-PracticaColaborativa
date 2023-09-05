@@ -1,4 +1,3 @@
-
 print("------------------------------------------------------------------")
 print("Bienvenidos a la práctica de github!")
 print("Este es un ejercicio colaborativo para practicar el uso de github.")
@@ -12,4 +11,3 @@ print()
 print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
 print("Aca estuvo bautista menghini.")
 print("Acá estuvo Aldana Aranda.")
-
