@@ -10,9 +10,8 @@ print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
 print("Hola estoy probando las ramas soy gaston sagasti")
 
 print("Aca estuvo bautista menghini.")
-print("Acá estuvo Aldana Aranda.")
+print("Acá estuvo Aldana Aranda")
+print("Acá estuvo Valentina Dambrosio")
 
 print("En main ustedes ya aprobaron PRs con sus nombres, si hago merge con esto, ¿que pasara?")
 print("Generando conflictos!!! MUEJEJE")
-
-
