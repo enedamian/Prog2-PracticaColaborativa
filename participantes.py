@@ -6,9 +6,5 @@ print("Vamos a agregar nuestros nombres a continuación:")
 
 print()
 print("Acá estuvo Damian Ene. Se creó el PR y fue controlado por 'pepe'.")
-print("Aca estuvo bautista menghini.")
-print("Acá estuvo Aldana Aranda.")
-
-print("En main ustedes ya aprobaron PRs con sus nombres, si hago merge con esto, ¿que pasara?")
-print("Generando conflictos!!! MUEJEJE")
-
+print()
+print("Acá estuvo Federico Perez Martinetti")
